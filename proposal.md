@@ -113,10 +113,50 @@ This proposal outlines the design and implementation of a high-performance compu
 - **Spare Parts**: Keep an inventory of critical spare parts.
   - **Rationale**: Allows for quick replacement of faulty components.
 
-## 9. Conclusion
+## 9. Network Infrastructure
+### 9.1 Network Design
+- **Core Switches**: High-performance core switches with 40GbE or 100GbE uplinks.
+  - **Rationale**: Ensures high-speed connectivity and low latency.
+- **Top-of-Rack (ToR) Switches**: 10GbE switches for server connectivity.
+  - **Rationale**: Provides high-speed connections to each server.
+
+### 9.2 Cabling
+- **Fiber Optic Cables**: Use fiber optic cables for high-speed connections between switches.
+  - **Rationale**: Provides high bandwidth and low latency.
+- **Structured Cabling**: Implement structured cabling for organized and efficient cable management.
+  - **Rationale**: Reduces cable clutter and improves airflow.
+
+## 10. Environmental Considerations
+### 10.1 Energy Efficiency
+- **Energy-Efficient Servers**: Choose servers with high energy efficiency ratings.
+  - **Rationale**: Reduces overall power consumption and operational costs.
+- **Cooling Efficiency**: Implement energy-efficient cooling systems.
+  - **Rationale**: Reduces energy consumption for cooling.
+
+### 10.2 Sustainability
+- **Renewable Energy**: Consider using renewable energy sources for power.
+  - **Rationale**: Reduces carbon footprint and promotes sustainability.
+- **Recycling**: Implement a recycling program for electronic waste.
+  - **Rationale**: Promotes environmental responsibility.
+
+## 11. Budget and Timeline
+### 11.1 Budget
+- **Hardware Costs**: Estimate costs for servers, racks, networking equipment, and cooling systems.
+- **Software Costs**: Estimate costs for operating systems, management software, and licenses.
+- **Installation Costs**: Estimate costs for installation and setup.
+- **Maintenance Costs**: Estimate ongoing maintenance and support costs.
+
+### 11.2 Timeline
+- **Planning Phase**: 1 month
+- **Procurement Phase**: 2 months
+- **Installation Phase**: 1 month
+- **Testing Phase**: 1 month
+- **Go-Live Phase**: 1 month
+
+## 12. Conclusion
 This proposal provides a comprehensive plan for setting up a high-performance computing server room. By following these guidelines, we can ensure optimal performance, reliability, and safety for our HPC infrastructure.
 
 ---
 
-**Prepared by:**  
-**Date:** Sep 2024
+**Prepared by:** [Your Name]  
+**Date:** [Date]
