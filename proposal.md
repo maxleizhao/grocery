@@ -28,6 +28,7 @@ This proposal outlines the design and implementation of a high-performance compu
   - **Rationale**: High-speed storage for quick data access and reduced I/O bottlenecks.
 - **Network**: Dual 10GbE NICs
   - **Rationale**: High-speed network interfaces for fast data transfer and clustering.
+- **KVM switch**: Optimize maintenance
 
 ### 3.2 Software
 - **Operating System**: Ubuntu Server 20.04 LTS
