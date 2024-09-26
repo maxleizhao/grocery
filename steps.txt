@@ -15,7 +15,7 @@
     Negotiate contracts and service level agreements (SLAs)
 4. Design Phase
     Work with vendors to finalize:
-    a. Room layout and construction plans
+        a. Room layout and construction plans
         b. Server and network infrastructure design
         c. Cooling and power systems design 
     Ensure designs meet all requirements and regulations
