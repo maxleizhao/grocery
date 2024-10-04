@@ -38,7 +38,44 @@
 
 ## Checklist
 
-[Checklist remains the same as in the previous version]
+### Documents:
+- [ ] Passport (valid for at least 6 months)
+- [ ] Visa (if required)
+- [ ] Flight tickets
+- [ ] Hotel reservations
+- [ ] Travel insurance
+- [ ] Business documents
+
+### Clothing:
+- [ ] Business attire (for meetings)
+- [ ] Casual, modest clothing (long pants/skirts, shirts covering shoulders)
+- [ ] Comfortable walking shoes
+- [ ] Light jacket (October evenings can be cool)
+- [ ] Swimwear (if your hotel has a pool)
+
+### Electronics:
+- [ ] Smartphone and charger
+- [ ] Camera
+- [ ] Universal power adapter
+- [ ] Portable power bank
+
+### Toiletries:
+- [ ] Sunscreen
+- [ ] Insect repellent
+- [ ] Hand sanitizer
+- [ ] Personal hygiene items
+
+### Miscellaneous:
+- [ ] Cash (Moroccan Dirhams) and credit cards
+- [ ] Sunglasses and hat
+- [ ] Reusable water bottle
+- [ ] Small backpack for day trips
+- [ ] Arabic/French phrasebook or language app
+
+### Health:
+- [ ] Personal medications
+- [ ] First-aid kit
+- [ ] Travel sickness pills (if needed)
 
 ## Additional Information
 
